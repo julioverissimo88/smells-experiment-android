@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:41:47.456">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/uk.co.busydoingnothing.catverbs/src/uk/co/busydoingnothing/catverbs/Trie.java">
+<violation beginline="242" endline="417" begincolumn="10" endcolumn="3" rule="ExcessiveMethodLength" ruleset="Design" package="uk.co.busydoingnothing.catverbs" class="Trie" method="search" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

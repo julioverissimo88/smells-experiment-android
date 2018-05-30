@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:39:31.614">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/androidTest/java/me/kuehle/carreport/util/RecurrencesTest.java">
+<violation beginline="357" endline="517" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.kuehle.carreport.util" class="RecurrencesTest" method="testGetRecurrencesBetweenMovedTimeframe" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/data/balancing/RefuelingBalancer.java">
+<violation beginline="80" endline="83" begincolumn="33" endcolumn="93" rule="ExcessiveParameterList" ruleset="Design" package="me.kuehle.carreport.data.balancing" class="RefuelingBalancer$BalancedRefueling" method="BalancedRefueling" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="171" endline="345" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.kuehle.carreport.data.balancing" class="RefuelingBalancer" method="calculateBalancedRefuelings" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/data/report/AbstractReport.java">
+<violation beginline="187" endline="294" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.kuehle.carreport.data.report" class="AbstractReport" method="getChartData" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/data/report/CostsReport.java">
+<violation beginline="150" endline="337" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.kuehle.carreport.data.report" class="CostsReport" method="onUpdate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/AbstractDataDetailFragment.java">
+<violation beginline="40" endline="231" begincolumn="46" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.gui" class="AbstractDataDetailFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/AbstractDataListFragment.java">
+<violation beginline="52" endline="406" begincolumn="65" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.gui" class="AbstractDataListFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/DataDetailReminderFragment.java">
+<violation beginline="101" endline="211" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.kuehle.carreport.gui" class="DataDetailReminderFragment" method="initFields" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/MainActivity.java">
+<violation beginline="74" endline="545" begincolumn="57" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.gui" class="MainActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/PreferencesBackupFragment.java">
+<violation beginline="56" endline="437" begincolumn="39" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.gui" class="PreferencesBackupFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/PreferencesCarsFragment.java">
+<violation beginline="49" endline="252" begincolumn="78" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.gui" class="PreferencesCarsFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/PreferencesGeneralFragment.java">
+<violation beginline="101" endline="226" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.kuehle.carreport.gui" class="PreferencesGeneralFragment" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/PreferencesRemindersFragment.java">
+<violation beginline="55" endline="324" begincolumn="47" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.gui" class="PreferencesRemindersFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/gui/ReportFragment.java">
+<violation beginline="75" endline="585" begincolumn="82" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.gui" class="ReportFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/base/AbstractSelection.java">
+<violation beginline="25" endline="336" begincolumn="73" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.base" class="AbstractSelection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/base/BaseContentProvider.java">
+<violation beginline="35" endline="211" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.base" class="BaseContentProvider" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/car/CarSelection.java">
+<violation beginline="29" endline="194" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.car" class="CarSelection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/fueltype/FuelTypeSelection.java">
+<violation beginline="29" endline="129" begincolumn="77" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.fueltype" class="FuelTypeSelection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/othercost/OtherCostContentValues.java">
+<violation beginline="30" endline="145" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.othercost" class="OtherCostContentValues" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/othercost/OtherCostSelection.java">
+<violation beginline="30" endline="456" begincolumn="79" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.othercost" class="OtherCostSelection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/refueling/RefuelingContentValues.java">
+<violation beginline="30" endline="118" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.refueling" class="RefuelingContentValues" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/refueling/RefuelingSelection.java">
+<violation beginline="31" endline="476" begincolumn="79" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.refueling" class="RefuelingSelection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/reminder/ReminderContentValues.java">
+<violation beginline="30" endline="151" begincolumn="66" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.reminder" class="ReminderContentValues" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/provider/reminder/ReminderSelection.java">
+<violation beginline="30" endline="431" begincolumn="77" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.provider.reminder" class="ReminderSelection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/util/Calculator.java">
+<violation beginline="19" endline="299" begincolumn="25" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.util" class="Calculator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/util/DemoData.java">
+<violation beginline="35" endline="224" begincolumn="23" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.util" class="DemoData" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="191" endline="194" begincolumn="40" endcolumn="90" rule="ExcessiveParameterList" ruleset="Design" package="me.kuehle.carreport.util" class="DemoData" method="createOtherCost" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/util/backup/CSVExportImport.java">
+<violation beginline="59" endline="509" begincolumn="30" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.kuehle.carreport.util.backup" class="CSVExportImport" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.kuehle.carreport/app/src/main/java/me/kuehle/carreport/util/sync/Authenticator.java">
+<violation beginline="30" endline="97" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="me.kuehle.carreport.util.sync" class="Authenticator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Authenticator' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=2)
+</violation>
+</file>
+</pmd>

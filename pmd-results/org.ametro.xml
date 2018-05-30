@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:40:46.832">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/catalog/entities/MapInfo.java">
+<violation beginline="23" endline="25" begincolumn="19" endcolumn="30" rule="ExcessiveParameterList" ruleset="Design" package="org.ametro.catalog.entities" class="MapInfo" method="MapInfo" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/catalog/entities/MapInfoEntity.java">
+<violation beginline="3" endline="81" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.catalog.entities" class="MapInfoEntity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapInfoEntity' is suspected to be a Data Class (WOC=10.000%, NOPA=0, NOAM=7, WMC=10)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/catalog/entities/MapInfoEntityName.java">
+<violation beginline="3" endline="33" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.catalog.entities" class="MapInfoEntityName" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapInfoEntityName' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapMetadata.java">
+<violation beginline="7" endline="202" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapMetadata" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapMetadata' is suspected to be a Data Class (WOC=25.000%, NOPA=0, NOAM=11, WMC=20)
+</violation>
+<violation beginline="24" endline="36" begincolumn="23" endcolumn="39" rule="ExcessiveParameterList" ruleset="Design" package="org.ametro.model.entities" class="MapMetadata" method="MapMetadata" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapScheme.java">
+<violation beginline="6" endline="113" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapScheme" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapScheme' is suspected to be a Data Class (WOC=23.529%, NOPA=0, NOAM=12, WMC=17)
+</violation>
+<violation beginline="30" endline="30" begincolumn="21" endcolumn="311" rule="ExcessiveParameterList" ruleset="Design" package="org.ametro.model.entities" class="MapScheme" method="MapScheme" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapSchemeLine.java">
+<violation beginline="3" endline="76" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapSchemeLine" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapSchemeLine' is suspected to be a Data Class (WOC=10.000%, NOPA=0, NOAM=8, WMC=10)
+</violation>
+<violation beginline="18" endline="28" begincolumn="25" endcolumn="40" rule="ExcessiveParameterList" ruleset="Design" package="org.ametro.model.entities" class="MapSchemeLine" method="MapSchemeLine" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapSchemeSegment.java">
+<violation beginline="3" endline="37" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapSchemeSegment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapSchemeSegment' is suspected to be a Data Class (WOC=16.667%, NOPA=0, NOAM=4, WMC=6)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapSchemeStation.java">
+<violation beginline="3" endline="45" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapSchemeStation" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapSchemeStation' is suspected to be a Data Class (WOC=28.571%, NOPA=0, NOAM=4, WMC=7)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapSchemeTransfer.java">
+<violation beginline="3" endline="38" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapSchemeTransfer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapSchemeTransfer' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=5, WMC=6)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapStationInformation.java">
+<violation beginline="3" endline="38" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapStationInformation" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapStationInformation' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=5, WMC=6)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapTransportLine.java">
+<violation beginline="3" endline="31" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapTransportLine" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapTransportLine' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapTransportScheme.java">
+<violation beginline="3" endline="32" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapTransportScheme" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapTransportScheme' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/model/entities/MapTransportTransfer.java">
+<violation beginline="3" endline="32" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.model.entities" class="MapTransportTransfer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapTransportTransfer' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/render/CanvasRenderer.java">
+<violation beginline="19" endline="427" begincolumn="29" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.ametro.render" class="CanvasRenderer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/render/clipping/ClippingTree.java">
+<violation beginline="78" endline="119" begincolumn="20" endcolumn="5" rule="DataClass" ruleset="Design" package="org.ametro.render.clipping" class="ClippingTree" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ClippingTreeNode' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=4)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/render/elements/DrawingElement.java">
+<violation beginline="8" endline="55" begincolumn="17" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.render.elements" class="DrawingElement" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'DrawingElement' is suspected to be a Data Class (WOC=20.000%, NOPA=0, NOAM=4, WMC=8)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/activities/Map.java">
+<violation beginline="60" endline="481" begincolumn="65" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.ametro.ui.activities" class="Map" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/activities/MapList.java">
+<violation beginline="34" endline="184" begincolumn="58" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.ametro.ui.activities" class="MapList" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/controllers/MultiTouchController.java">
+<violation beginline="17" endline="545" begincolumn="35" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.ametro.ui.controllers" class="MultiTouchController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/fragments/MapListFragment.java">
+<violation beginline="40" endline="368" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.ametro.ui.fragments" class="MapListFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/navigation/NavigationController.java">
+<violation beginline="48" endline="397" begincolumn="78" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.ametro.ui.navigation" class="NavigationController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/navigation/entities/NavigationHeader.java">
+<violation beginline="5" endline="45" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.ui.navigation.entities" class="NavigationHeader" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'NavigationHeader' is suspected to be a Data Class (WOC=14.286%, NOPA=0, NOAM=4, WMC=7)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/navigation/entities/NavigationItem.java">
+<violation beginline="3" endline="60" begincolumn="17" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.ui.navigation.entities" class="NavigationItem" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'NavigationItem' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=6, WMC=11)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/views/MultiTouchMapView.java">
+<violation beginline="28" endline="275" begincolumn="103" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.ametro.ui.views" class="MultiTouchMapView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.ametro/app/src/main/java/org/ametro/ui/widgets/MapSelectionIndicatorsWidget.java">
+<violation beginline="11" endline="110" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.ametro.ui.widgets" class="MapSelectionIndicatorsWidget" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MapSelectionIndicatorsWidget' is suspected to be a Data Class (WOC=28.571%, NOPA=0, NOAM=4, WMC=21)
+</violation>
+</file>
+</pmd>

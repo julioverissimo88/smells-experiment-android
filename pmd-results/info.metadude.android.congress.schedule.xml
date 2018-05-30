@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:39:22.228">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/info.metadude.android.congress.schedule/app/src/main/java/nerd/tuxmobil/fahrplan/congress/details/EventDetailFragment.java">
+<violation beginline="51" endline="453" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.details" class="EventDetailFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="137" endline="248" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.details" class="EventDetailFragment" method="onViewCreated" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/info.metadude.android.congress.schedule/app/src/main/java/nerd/tuxmobil/fahrplan/congress/favorites/StarredListFragment.java">
+<violation beginline="49" endline="324" begincolumn="34" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.favorites" class="StarredListFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/info.metadude.android.congress.schedule/app/src/main/java/nerd/tuxmobil/fahrplan/congress/models/MetaInfo.java">
+<violation beginline="5" endline="30" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.models" class="MetaInfo" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MetaInfo' is suspected to be a Data Class (WOC=0.000%, NOPA=7, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/info.metadude.android.congress.schedule/app/src/main/java/nerd/tuxmobil/fahrplan/congress/schedule/FahrplanFragment.java">
+<violation beginline="67" endline="1107" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.schedule" class="FahrplanFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="69" endline="1107" begincolumn="48" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.schedule" class="FahrplanFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/info.metadude.android.congress.schedule/app/src/main/java/nerd/tuxmobil/fahrplan/congress/schedule/MainActivity.java">
+<violation beginline="76" endline="574" begincolumn="56" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.schedule" class="MainActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/info.metadude.android.congress.schedule/app/src/main/java/nerd/tuxmobil/fahrplan/congress/serialization/FahrplanParser.java">
+<violation beginline="227" endline="463" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.serialization" class="ParserTask" method="parseFahrplan" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="465" endline="566" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="nerd.tuxmobil.fahrplan.congress.serialization" class="ParserTask" method="setChangedFlags" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

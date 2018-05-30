@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:39:36.080">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/GDK-ProgressBar/src/main/java/com/w9jds/gdk_progress_widget/SliderView.java">
+<violation beginline="16" endline="285" begincolumn="45" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.w9jds.gdk_progress_widget" class="SliderView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/Calculator.java">
+<violation beginline="73" endline="741" begincolumn="156" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.holo" class="Calculator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="99" endline="220" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.holo" class="Calculator" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/CalculatorWidget.java">
+<violation beginline="59" endline="181" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.holo" class="CalculatorWidget" method="onReceive" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/EventListener.java">
+<violation beginline="80" endline="247" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.holo" class="EventListener" method="onClick" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/Logic.java">
+<violation beginline="38" endline="305" begincolumn="20" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.holo" class="Logic" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/dao/App.java">
+<violation beginline="8" endline="52" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="com.xlythe.calculator.holo.dao" class="App" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'App' is suspected to be a Data Class (WOC=16.667%, NOPA=0, NOAM=4, WMC=7)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/view/AdvancedDisplay.java">
+<violation beginline="23" endline="298" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.holo.view" class="AdvancedDisplay" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/view/GraphView.java">
+<violation beginline="21" endline="476" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.holo.view" class="GraphView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/legacy-mobile/src/main/java/com/xlythe/calculator/holo/view/MatrixView.java">
+<violation beginline="21" endline="311" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.holo.view" class="MatrixView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/BasicCalculator.java">
+<violation beginline="66" endline="710" begincolumn="84" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.material" class="BasicCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/GraphController.java">
+<violation beginline="21" endline="158" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.material" class="GraphController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/GraphingCalculator.java">
+<violation beginline="40" endline="278" begincolumn="64" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.material" class="GraphingCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/HistoryAdapter.java">
+<violation beginline="235" endline="248" begincolumn="19" endcolumn="5" rule="DataClass" ruleset="Design" package="com.xlythe.calculator.material" class="HistoryAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ViewHolder' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/floating/FloatingCalculator.java">
+<violation beginline="35" endline="311" begincolumn="54" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.material.floating" class="FloatingCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="67" endline="211" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.material.floating" class="FloatingCalculator" method="inflateView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/view/CalculatorPadView.java">
+<violation beginline="37" endline="427" begincolumn="58" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.material.view" class="CalculatorPadView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/view/DisplayOverlay.java">
+<violation beginline="41" endline="787" begincolumn="52" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.material.view" class="DisplayOverlay" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="615" endline="741" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.material.view" class="DisplayOverlay$DisplayAnimator" method="onUpdate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/view/GraphView.java">
+<violation beginline="26" endline="860" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.xlythe.calculator.material.view" class="GraphView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="278" endline="481" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.material.view" class="GraphView" method="draw" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="811" endline="859" begincolumn="19" endcolumn="5" rule="DataClass" ruleset="Design" package="com.xlythe.calculator.material.view" class="GraphView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Graph' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/mobile/src/main/java/com/xlythe/calculator/material/widget/CalculatorWidget.java">
+<violation beginline="84" endline="206" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.material.widget" class="CalculatorWidget" method="onReceive" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/wear/src/main/java/com/xlythe/calculator/material/HistoryAdapter.java">
+<violation beginline="113" endline="122" begincolumn="19" endcolumn="5" rule="DataClass" ruleset="Design" package="com.xlythe.calculator.material" class="HistoryAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ViewHolder' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.android2.calculator3/wear/src/main/java/com/xlythe/calculator/material/MainActivity.java">
+<violation beginline="44" endline="173" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.xlythe.calculator.material" class="MainActivity" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

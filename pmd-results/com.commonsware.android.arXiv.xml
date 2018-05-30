@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:41:52.146">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.commonsware.android.arXiv/src/com/commonsware/android/arXiv/ArxivAppWidgetProvider.java">
+<violation beginline="63" endline="197" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="ArxivAppWidgetProvider" method="onUpdate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.commonsware.android.arXiv/src/com/commonsware/android/arXiv/RSSListWindow.java">
+<violation beginline="182" endline="315" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="RSSListWindow" method="getInfoFromXML" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="189" endline="312" begincolumn="20" endcolumn="13" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="RSSListWindow" method="run" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.commonsware.android.arXiv/src/com/commonsware/android/arXiv/SearchListWindow.java">
+<violation beginline="70" endline="624" begincolumn="52" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.commonsware.android.arXiv" class="SearchListWindow" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="249" endline="411" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="SearchListWindow" method="getInfoFromXML" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="256" endline="408" begincolumn="20" endcolumn="13" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="SearchListWindow" method="run" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.commonsware.android.arXiv/src/com/commonsware/android/arXiv/SingleItemWindow.java">
+<violation beginline="69" endline="628" begincolumn="80" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.commonsware.android.arXiv" class="SingleItemWindow" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="286" endline="515" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="SingleItemWindow" method="pressedPDFButton" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="293" endline="501" begincolumn="24" endcolumn="17" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="SingleItemWindow" method="run" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.commonsware.android.arXiv/src/com/commonsware/android/arXiv/arXiv.java">
+<violation beginline="80" endline="1070" begincolumn="80" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.commonsware.android.arXiv" class="arXiv" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="487" endline="654" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="arXiv" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="704" endline="814" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.commonsware.android.arXiv" class="arXiv" method="onItemClick" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

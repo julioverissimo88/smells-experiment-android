@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:40:50.229">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/de.rampro.activitydiary/app/src/main/java/de/rampro/activitydiary/helpers/ActivityHelper.java">
+<violation beginline="72" endline="713" begincolumn="54" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="de.rampro.activitydiary.helpers" class="ActivityHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/de.rampro.activitydiary/app/src/main/java/de/rampro/activitydiary/ui/generic/EditActivity.java">
+<violation beginline="59" endline="458" begincolumn="94" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="de.rampro.activitydiary.ui.generic" class="EditActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="87" endline="199" begincolumn="19" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="de.rampro.activitydiary.ui.generic" class="EditActivity$QHandler" method="onQueryComplete" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/de.rampro.activitydiary/app/src/main/java/de/rampro/activitydiary/ui/history/HistoryActivity.java">
+<violation beginline="56" endline="243" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="de.rampro.activitydiary.ui.history" class="HistoryActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/de.rampro.activitydiary/app/src/main/java/de/rampro/activitydiary/ui/history/HistoryDetailActivity.java">
+<violation beginline="69" endline="551" begincolumn="105" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="de.rampro.activitydiary.ui.history" class="HistoryDetailActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/de.rampro.activitydiary/app/src/main/java/de/rampro/activitydiary/ui/history/HistoryRecyclerViewAdapter.java">
+<violation beginline="102" endline="222" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="de.rampro.activitydiary.ui.history" class="HistoryRecyclerViewAdapter" method="onBindViewHolder" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/de.rampro.activitydiary/app/src/main/java/de/rampro/activitydiary/ui/main/MainActivity.java">
+<violation beginline="100" endline="773" begincolumn="36" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="de.rampro.activitydiary.ui.main" class="MainActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="167" endline="363" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="de.rampro.activitydiary.ui.main" class="MainActivity" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/de.rampro.activitydiary/app/src/main/java/de/rampro/activitydiary/ui/settings/SettingsActivity.java">
+<violation beginline="50" endline="348" begincolumn="114" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="de.rampro.activitydiary.ui.settings" class="SettingsActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+</pmd>

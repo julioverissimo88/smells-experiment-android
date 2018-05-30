@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:42:27.119">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.dbarnett.acastus/app/src/main/java/me/dbarnett/acastus/MainActivity.java">
+<violation beginline="52" endline="815" begincolumn="52" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.dbarnett.acastus" class="MainActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.dbarnett.acastus/app/src/main/java/me/dbarnett/acastus/ViewMapActivity.java">
+<violation beginline="33" endline="345" begincolumn="93" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.dbarnett.acastus" class="ViewMapActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="130" endline="264" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.dbarnett.acastus" class="ViewMapActivity" method="addPoints" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

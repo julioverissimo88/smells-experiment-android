@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:41:05.780">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.androgames.level/Level/src/main/java/net/androgames/level/orientation/OrientationProvider.java">
+<violation beginline="178" endline="289" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="net.androgames.level.orientation" class="OrientationProvider" method="onSensorChanged" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.androgames.level/Level/src/main/java/net/androgames/level/painter/LevelPainter.java">
+<violation beginline="162" endline="166" begincolumn="24" endcolumn="32" rule="ExcessiveParameterList" ruleset="Design" package="net.androgames.level.painter" class="LevelPainter" method="LevelPainter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="162" endline="265" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.androgames.level.painter" class="LevelPainter" method="LevelPainter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="382" endline="523" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.androgames.level.painter" class="LevelPainter" method="doDraw" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

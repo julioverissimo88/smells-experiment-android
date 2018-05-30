@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:42:05.381">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/AlarmDatabase.java">
+<violation beginline="24" endline="395" begincolumn="21" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="AlarmDatabase" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/BatteryInfoService.java">
+<violation beginline="47" endline="1019" begincolumn="49" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="BatteryInfoService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/ColorPickerView.java">
+<violation beginline="42" endline="544" begincolumn="43" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="ColorPickerView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/CurrentHack.java">
+<violation beginline="141" endline="400" begincolumn="20" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="CurrentHack" method="getFSCurrent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="402" endline="503" begincolumn="20" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="CurrentHack" method="getFSAvgCurrent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/CurrentInfoFragment.java">
+<violation beginline="43" endline="504" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="CurrentInfoFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="390" endline="503" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="CurrentInfoFragment" method="setSizes" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/LogViewFragment.java">
+<violation beginline="50" endline="922" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="LogViewFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="797" endline="902" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="LogViewFragment$LogAdapter" method="bindView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/PersistentFragment.java">
+<violation beginline="30" endline="219" begincolumn="50" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="PersistentFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/PredictorCore.java">
+<violation beginline="17" endline="408" begincolumn="21" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="PredictorCore" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/PredictorCore.java">
+<violation beginline="17" endline="408" begincolumn="21" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="PredictorCore" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/SettingsActivity.java">
+<violation beginline="45" endline="1045" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="SettingsActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="45" endline="1045" begincolumn="102" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="SettingsActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="328" endline="509" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="SettingsActivity" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="666" endline="770" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="SettingsActivity" method="onSharedPreferenceChanged" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/src/com/darshancomputing/BatteryIndicatorPro/Str.java">
+<violation beginline="19" endline="259" begincolumn="11" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="Str" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.darshancomputing.BatteryIndicatorPro/test/com/darshancomputing/BatteryIndicatorPro/Test.java">
+<violation beginline="22" endline="234" begincolumn="19" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.darshancomputing.BatteryIndicatorPro" class="Test" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

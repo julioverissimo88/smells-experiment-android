@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:41:06.163">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/androidTest/java/org/liberty/android/fantastischmemo/test/db/CardDaoTest.java">
+<violation beginline="24" endline="680" begincolumn="57" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.test.db" class="CardDaoTest" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/androidTest/java/org/liberty/android/fantastischmemo/test/db/DatabaseUtilsTest.java">
+<violation beginline="45" endline="180" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.test.db" class="DatabaseUtilsTest" method="testMergeDatabase" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/androidTest/java/org/liberty/android/fantastischmemo/test/db/SettingTest.java">
+<violation beginline="16" endline="210" begincolumn="57" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.test.db" class="SettingTest" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/androidTest/java/org/liberty/android/fantastischmemo/test/scheduler/DefaultSchedulerTest.java">
+<violation beginline="17" endline="163" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.test.scheduler" class="DefaultSchedulerTest" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/androidTest/java/org/liberty/android/fantastischmemo/test/service/cardplayer/CardPlayerStateTest.java">
+<violation beginline="22" endline="318" begincolumn="65" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.test.service.cardplayer" class="CardPlayerStateTest" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/common/AnyMemoDBOpenHelper.java">
+<violation beginline="28" endline="264" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.common" class="AnyMemoDBOpenHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'AnyMemoDBOpenHelper' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=29)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/converter/Mnemosyne2CardsImporter.java">
+<violation beginline="141" endline="282" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.converter" class="Mnemosyne2CardsImporter" method="xmlToCards" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/converter/MnemosyneXMLExporter.java">
+<violation beginline="42" endline="163" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.converter" class="MnemosyneXMLExporter" method="convert" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/dao/CardDao.java">
+<violation beginline="10" endline="113" begincolumn="59" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.dao" class="CardDao" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/dao/CardDaoImpl.java">
+<violation beginline="27" endline="861" begincolumn="90" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.dao" class="CardDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/downloader/common/AbstractDownloaderFragment.java">
+<violation beginline="56" endline="445" begincolumn="71" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.downloader.common" class="AbstractDownloaderFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/downloader/common/DownloadItem.java">
+<violation beginline="24" endline="100" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.downloader.common" class="DownloadItem" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'DownloadItem' is suspected to be a Data Class (WOC=16.667%, NOPA=0, NOAM=8, WMC=12)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/downloader/google/Entry.java">
+<violation beginline="24" endline="61" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.downloader.google" class="Entry" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Entry' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/downloader/google/GoogleDriveUploadHelper.java">
+<violation beginline="49" endline="186" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.downloader.google" class="GoogleDriveUploadHelper" method="createSpreadsheet" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/downloader/quizlet/CardsetsListFragment.java">
+<violation beginline="15" endline="130" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.downloader.quizlet" class="CardsetsListFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'CardsetsListFragment' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/entity/Card.java">
+<violation beginline="13" endline="171" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.entity" class="Card" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Card' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=20, WMC=27)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/entity/Category.java">
+<violation beginline="12" endline="76" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.entity" class="Category" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Category' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/entity/Deck.java">
+<violation beginline="12" endline="69" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.entity" class="Deck" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Deck' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=11)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/entity/Filter.java">
+<violation beginline="11" endline="68" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.entity" class="Filter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Filter' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=11)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/entity/LearningData.java">
+<violation beginline="13" endline="175" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.entity" class="LearningData" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'LearningData' is suspected to be a Data Class (WOC=7.407%, NOPA=0, NOAM=24, WMC=27)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/modules/ActivityComponents.java">
+<violation beginline="27" endline="68" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.modules" class="ActivityComponents" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/modules/AppModules.java">
+<violation beginline="38" endline="178" begincolumn="34" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.modules" class="AppModules" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/modules/FragmentComponents.java">
+<violation beginline="27" endline="67" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.modules" class="FragmentComponents" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/service/CardPlayerService.java">
+<violation beginline="47" endline="257" begincolumn="52" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.service" class="CardPlayerService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/service/ConvertIntentService.java">
+<violation beginline="45" endline="178" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.service" class="ConvertIntentService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ConvertIntentService' is suspected to be a Data Class (WOC=0.000%, NOPA=5, NOAM=0, WMC=5)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/service/cardplayer/CardPlayerContext.java">
+<violation beginline="32" endline="113" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.service.cardplayer" class="CardPlayerContext" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'CardPlayerContext' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=13)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/CardEditor.java">
+<violation beginline="65" endline="648" begincolumn="46" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="CardEditor" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/CardListActivity.java">
+<violation beginline="77" endline="660" begincolumn="52" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="CardListActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/CardPlayerActivity.java">
+<violation beginline="41" endline="235" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="CardPlayerActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'CardPlayerActivity' is suspected to be a Data Class (WOC=0.000%, NOPA=3, NOAM=1, WMC=12)
+</violation>
+<violation beginline="41" endline="235" begincolumn="56" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="CardPlayerActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/FileBrowserFragment.java">
+<violation beginline="66" endline="566" begincolumn="61" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="FileBrowserFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="404" endline="511" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="FileBrowserFragment$FileBrowserAdapter" method="onBindViewHolder" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/MiscTabFragment.java">
+<violation beginline="171" endline="365" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="MiscTabFragment" method="onClick" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/PreviewEditActivity.java">
+<violation beginline="61" endline="823" begincolumn="57" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="PreviewEditActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="257" endline="482" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="PreviewEditActivity" method="onOptionsItemSelected" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/QACardActivity.java">
+<violation beginline="77" endline="760" begincolumn="59" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="QACardActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="197" endline="406" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="QACardActivity" method="displayCard" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/QuizActivity.java">
+<violation beginline="54" endline="487" begincolumn="50" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="QuizActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/StudyActivity.java">
+<violation beginline="64" endline="790" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="StudyActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.liberty.android.fantastischmemo/app/src/main/java/org/liberty/android/fantastischmemo/ui/TwoFieldsCardFragment.java">
+<violation beginline="39" endline="199" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.liberty.android.fantastischmemo.ui" class="TwoFieldsCardFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'TwoFieldsCardFragment' is suspected to be a Data Class (WOC=0.000%, NOPA=6, NOAM=0, WMC=1)
+</violation>
+</file>
+</pmd>

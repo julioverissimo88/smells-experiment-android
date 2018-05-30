@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:42:00.191">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.angrydoughnuts.android.alarmclock/android/alarmclock/src/com/angrydoughnuts/android/alarmclock2/AlarmClockActivity.java">
+<violation beginline="58" endline="210" begincolumn="10" endcolumn="3" rule="ExcessiveMethodLength" ruleset="Design" package="com.angrydoughnuts.android.alarmclock" class="AlarmClockActivity" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.angrydoughnuts.android.alarmclock/android/alarmclock/src/com/angrydoughnuts/android/alarmclock2/AlarmNotificationService.java">
+<violation beginline="46" endline="553" begincolumn="55" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.angrydoughnuts.android.alarmclock" class="AlarmNotificationService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.angrydoughnuts.android.alarmclock/android/alarmclock/src/com/angrydoughnuts/android/alarmclock2/AlarmOptions.java">
+<violation beginline="252" endline="573" begincolumn="18" endcolumn="3" rule="DataClass" ruleset="Design" package="com.angrydoughnuts.android.alarmclock" class="AlarmOptions" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'OptionsView' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=19)
+</violation>
+<violation beginline="258" endline="541" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.angrydoughnuts.android.alarmclock" class="AlarmOptions$OptionsView" method="OptionsView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.angrydoughnuts.android.alarmclock/android/alarmclock/src/com/angrydoughnuts/android/alarmclock2/TimePicker.java">
+<violation beginline="40" endline="305" begincolumn="10" endcolumn="3" rule="ExcessiveMethodLength" ruleset="Design" package="com.angrydoughnuts.android.alarmclock" class="TimePicker" method="onCreateDialog" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.angrydoughnuts.android.alarmclock/android/alarmclock/src/com/angrydoughnuts/android/alarmclock2/TimeUtil.java">
+<violation beginline="24" endline="181" begincolumn="23" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.angrydoughnuts.android.alarmclock" class="TimeUtil" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.angrydoughnuts.android.alarmclock/android/brightnessprof/src/com/angrydoughnuts/android/brightprof/BrightnessProfiles.java">
+<violation beginline="39" endline="324" begincolumn="50" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.angrydoughnuts.android.brightprof" class="BrightnessProfiles" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.angrydoughnuts.android.alarmclock/android/brightnessprof/src/com/angrydoughnuts/android/brightprof/DbHelper.java">
+<violation beginline="22" endline="70" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="com.angrydoughnuts.android.brightprof" class="DbHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'DbHelper' is suspected to be a Data Class (WOC=0.000%, NOPA=8, NOAM=0, WMC=2)
+</violation>
+</file>
+</pmd>

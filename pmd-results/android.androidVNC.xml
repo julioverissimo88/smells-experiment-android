@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:40:00.896">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/AbstractBitmapData.java">
+<violation beginline="21" endline="171" begincolumn="35" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="AbstractBitmapData" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/DH.java">
+<violation beginline="26" endline="183" begincolumn="17" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="DH" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/EnterTextDialog.java">
+<violation beginline="106" endline="229" begincolumn="19" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="android.androidVNC" class="EnterTextDialog" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/InStream.java">
+<violation beginline="26" endline="155" begincolumn="32" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="InStream" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/MetaKeyDialog.java">
+<violation beginline="184" endline="323" begincolumn="19" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="android.androidVNC" class="MetaKeyDialog" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/RfbProto.java">
+<violation beginline="44" endline="1304" begincolumn="1" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="android.androidVNC" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="44" endline="1304" begincolumn="16" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="RfbProto" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="953" endline="956" begincolumn="40" endcolumn="91" rule="ExcessiveParameterList" ruleset="Design" package="android.androidVNC" class="RfbProto" method="writeSetPixelFormat" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/VncCanvas.java">
+<violation beginline="55" endline="1670" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="android.androidVNC" class="VncCanvas" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="55" endline="1670" begincolumn="42" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="VncCanvas" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="332" endline="473" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="android.androidVNC" class="VncCanvas" method="processNormalProtocol" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1281" endline="1382" begincolumn="17" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="android.androidVNC" class="VncCanvas" method="handleHextileSubrect" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/VncCanvasActivity.java">
+<violation beginline="61" endline="1657" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="android.androidVNC" class="VncCanvasActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="61" endline="1657" begincolumn="49" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="VncCanvasActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="256" endline="495" begincolumn="79" endcolumn="9" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="VncCanvasActivity$TouchpadInputHandler" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="519" endline="659" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="android.androidVNC" class="VncCanvasActivity" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/android/androidVNC/androidVNC.java">
+<violation beginline="46" endline="398" begincolumn="42" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="android.androidVNC" class="androidVNC" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/com/antlersoft/android/bc/ScaleGestureDetector.java">
+<violation beginline="108" endline="253" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.antlersoft.android.bc" class="ScaleGestureDetector" method="onTouchEvent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/android.androidVNC/androidVNC/src/com/antlersoft/android/drawing/RectList.java">
+<violation beginline="107" endline="270" begincolumn="17" endcolumn="17" rule="ExcessiveMethodLength" ruleset="Design" package="com.antlersoft.android.drawing" class="RectList$NonOverlappingPortion" method="overlap" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

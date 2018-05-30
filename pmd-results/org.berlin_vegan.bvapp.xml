@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:39:57.161">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.berlin_vegan.bvapp/app/src/main/java/org/berlin_vegan/bvapp/activities/LocationsOverviewActivity.java">
+<violation beginline="85" endline="643" begincolumn="61" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.berlin_vegan.bvapp.activities" class="LocationsOverviewActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.berlin_vegan.bvapp/app/src/main/java/org/berlin_vegan/bvapp/data/GastroLocation.java">
+<violation beginline="39" endline="194" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.berlin_vegan.bvapp.data" class="GastroLocation" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'GastroLocation' is suspected to be a Data Class (WOC=18.750%, NOPA=4, NOAM=26, WMC=34)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.berlin_vegan.bvapp/app/src/main/java/org/berlin_vegan/bvapp/data/GastroLocationPicture.java">
+<violation beginline="33" endline="67" begincolumn="1" endcolumn="1" rule="DataClass" ruleset="Design" package="org.berlin_vegan.bvapp.data" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'GastroLocationPicture' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=7)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.berlin_vegan.bvapp/app/src/main/java/org/berlin_vegan/bvapp/data/Locations.java">
+<violation beginline="42" endline="266" begincolumn="24" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.berlin_vegan.bvapp.data" class="Locations" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+</pmd>

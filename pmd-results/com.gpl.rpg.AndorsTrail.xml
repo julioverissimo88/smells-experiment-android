@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:40:05.385">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/Dialogs.java">
+<violation beginline="48" endline="408" begincolumn="28" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail" class="Dialogs" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/BulkSelectionInterface.java">
+<violation beginline="74" endline="252" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.gpl.rpg.AndorsTrail.activity" class="BulkSelectionInterface" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/ConversationActivity.java">
+<violation beginline="51" endline="493" begincolumn="93" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.activity" class="ConversationActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/DebugInterface.java">
+<violation beginline="35" endline="180" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.gpl.rpg.AndorsTrail.activity" class="DebugInterface" method="addDebugButtons" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/MainActivity.java">
+<violation beginline="62" endline="536" begincolumn="38" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.activity" class="MainActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/StartScreenActivity.java">
+<violation beginline="27" endline="258" begincolumn="157" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.activity" class="StartScreenActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/fragment/HeroinfoActivity_Inventory.java">
+<violation beginline="41" endline="473" begincolumn="119" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.activity.fragment" class="HeroinfoActivity_Inventory" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/ActorStatsController.java">
+<violation beginline="30" endline="660" begincolumn="41" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="ActorStatsController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/AttackResult.java">
+<violation beginline="3" endline="15" begincolumn="14" endcolumn="1" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="AttackResult" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'AttackResult' is suspected to be a Data Class (WOC=0.000%, NOPA=5, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/CombatController.java">
+<violation beginline="28" endline="588" begincolumn="78" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="CombatController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/ConversationController.java">
+<violation beginline="34" endline="460" begincolumn="43" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="ConversationController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/GameRoundController.java">
+<violation beginline="9" endline="105" begincolumn="77" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="GameRoundController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/ItemController.java">
+<violation beginline="22" endline="388" begincolumn="35" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="ItemController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/MapController.java">
+<violation beginline="22" endline="242" begincolumn="34" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="MapController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/MonsterMovementController.java">
+<violation beginline="17" endline="186" begincolumn="74" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="MonsterMovementController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/MovementController.java">
+<violation beginline="24" endline="372" begincolumn="76" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="MovementController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/SkillController.java">
+<violation beginline="21" endline="461" begincolumn="36" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="SkillController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/VisualEffectController.java">
+<violation beginline="213" endline="226" begincolumn="29" endcolumn="9" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller" class="VisualEffectController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'BloodSplatter' is suspected to be a Data Class (WOC=0.000%, NOPA=5, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/listeners/CombatActionListener.java">
+<violation beginline="7" endline="21" begincolumn="39" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller.listeners" class="CombatActionListener" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/listeners/CombatActionListeners.java">
+<violation beginline="8" endline="118" begincolumn="120" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller.listeners" class="CombatActionListeners" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/listeners/WorldEventListener.java">
+<violation beginline="9" endline="22" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller.listeners" class="WorldEventListener" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/controller/listeners/WorldEventListeners.java">
+<violation beginline="10" endline="119" begincolumn="114" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.controller.listeners" class="WorldEventListeners" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/ability/ActorConditionType.java">
+<violation beginline="6" endline="42" begincolumn="14" endcolumn="1" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.ability" class="ActorConditionType" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ActorConditionType' is suspected to be a Data Class (WOC=0.000%, NOPA=9, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/ability/traits/AbilityModifierTraits.java">
+<violation beginline="19" endline="33" begincolumn="37" endcolumn="25" rule="ExcessiveParameterList" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.ability.traits" class="AbilityModifierTraits" method="AbilityModifierTraits" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/actor/MonsterType.java">
+<violation beginline="54" endline="80" begincolumn="27" endcolumn="9" rule="ExcessiveParameterList" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.actor" class="MonsterType" method="MonsterType" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/actor/Player.java">
+<violation beginline="27" endline="425" begincolumn="41" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.actor" class="Player" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/conversation/Phrase.java">
+<violation beginline="5" endline="25" begincolumn="14" endcolumn="1" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.conversation" class="Phrase" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Phrase' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=3)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/item/ItemContainer.java">
+<violation beginline="13" endline="267" begincolumn="28" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.item" class="ItemContainer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/item/ItemType.java">
+<violation beginline="39" endline="53" begincolumn="24" endcolumn="9" rule="ExcessiveParameterList" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.item" class="ItemType" method="ItemType" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/map/MonsterSpawnArea.java">
+<violation beginline="16" endline="142" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="MonsterSpawnArea" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/map/PredefinedMap.java">
+<violation beginline="24" endline="397" begincolumn="34" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="PredefinedMap" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="255" endline="356" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="PredefinedMap" method="readFromParcel" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/map/TMXMapFileParser.java">
+<violation beginline="21" endline="332" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="TMXMapFileParser" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/map/TMXMapTranslator.java">
+<violation beginline="37" endline="474" begincolumn="37" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="TMXMapTranslator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="52" endline="219" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="TMXMapTranslator" method="transformMaps" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="453" endline="473" begincolumn="30" endcolumn="9" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="TMXMapTranslator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'SetOfLayerNames' is suspected to be a Data Class (WOC=0.000%, NOPA=5, NOAM=0, WMC=2)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/map/WorldMapSegment.java">
+<violation beginline="29" endline="39" begincolumn="29" endcolumn="9" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.map" class="WorldMapSegment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'NamedWorldMapArea' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/quest/QuestLogEntry.java">
+<violation beginline="3" endline="20" begincolumn="14" endcolumn="1" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.quest" class="QuestLogEntry" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'QuestLogEntry' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/script/ScriptEffect.java">
+<violation beginline="3" endline="39" begincolumn="14" endcolumn="1" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.model.script" class="ScriptEffect" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ScriptEffect' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/resource/ResourceLoader.java">
+<violation beginline="239" endline="406" begincolumn="24" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.gpl.rpg.AndorsTrail.resource" class="ResourceLoader" method="prepareTilesets" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/resource/TranslationLoader.java">
+<violation beginline="14" endline="177" begincolumn="38" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.resource" class="TranslationLoader" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/resource/VisualEffectCollection.java">
+<violation beginline="43" endline="64" begincolumn="29" endcolumn="9" rule="DataClass" ruleset="Design" package="com.gpl.rpg.AndorsTrail.resource" class="VisualEffectCollection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'VisualEffect' is suspected to be a Data Class (WOC=0.000%, NOPA=7, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/resource/parsers/MonsterTypeParser.java">
+<violation beginline="90" endline="100" begincolumn="56" endcolumn="40" rule="ExcessiveParameterList" ruleset="Design" package="com.gpl.rpg.AndorsTrail.resource.parsers" class="MonsterTypeParser" method="getExpectedMonsterExperience" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/savegames/LegacySavegameFormatReaderForMap.java">
+<violation beginline="4" endline="298" begincolumn="23" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.gpl.rpg.AndorsTrail.savegames" class="LegacySavegameFormatReaderForMap" method="getMapnameFromIndex" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/util/LruCache.java">
+<violation beginline="29" endline="323" begincolumn="35" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.util" class="LruCache" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/util/Range.java">
+<violation beginline="7" endline="102" begincolumn="26" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.util" class="Range" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/view/CombatView.java">
+<violation beginline="34" endline="405" begincolumn="153" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.view" class="CombatView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="61" endline="166" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.gpl.rpg.AndorsTrail.view" class="CombatView" method="CombatView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/view/CustomMenuInflater.java">
+<violation beginline="122" endline="275" begincolumn="56" endcolumn="9" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.view" class="CustomMenuInflater$DummyMenu" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/view/DisplayActiveActorConditionIcons.java">
+<violation beginline="26" endline="393" begincolumn="87" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.view" class="DisplayActiveActorConditionIcons" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/view/MainView.java">
+<violation beginline="56" endline="863" begincolumn="35" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.view" class="MainView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/view/StatusView.java">
+<violation beginline="22" endline="127" begincolumn="105" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.gpl.rpg.AndorsTrail.view" class="StatusView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.gpl.rpg.AndorsTrail/AndorsTrail/src/com/gpl/rpg/AndorsTrail/view/TraitsInfoView.java">
+<violation beginline="42" endline="53" begincolumn="45" endcolumn="17" rule="ExcessiveParameterList" ruleset="Design" package="com.gpl.rpg.AndorsTrail.view" class="TraitsInfoView" method="updateTraitsTable" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+</pmd>

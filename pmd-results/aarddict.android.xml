@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:39:20.502">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/aarddict.android/src/aarddict/Entry.java">
+<violation beginline="23" endline="87" begincolumn="14" endcolumn="1" rule="DataClass" ruleset="Design" package="aarddict" class="Entry" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Entry' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=4)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/aarddict.android/src/aarddict/Volume.java">
+<violation beginline="46" endline="527" begincolumn="55" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="aarddict" class="Volume" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/aarddict.android/src/aarddict/android/ArticleViewActivity.java">
+<violation beginline="70" endline="1074" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="aarddict.android" class="ArticleViewActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="70" endline="1074" begincolumn="65" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="aarddict.android" class="ArticleViewActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="112" endline="296" begincolumn="5" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="aarddict.android" class="ArticleViewActivity" method="initUI" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/aarddict.android/src/aarddict/android/DictionariesActivity.java">
+<violation beginline="61" endline="527" begincolumn="72" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="aarddict.android" class="DictionariesActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/aarddict.android/src/aarddict/android/DictionaryService.java">
+<violation beginline="56" endline="467" begincolumn="54" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="aarddict.android" class="DictionaryService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/aarddict.android/src/aarddict/android/LookupActivity.java">
+<violation beginline="62" endline="431" begincolumn="60" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="aarddict.android" class="LookupActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/aarddict.android/test/aarddict/TestSplitWord.java">
+<violation beginline="22" endline="110" begincolumn="45" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="aarddict" class="TestSplitWord" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+</pmd>

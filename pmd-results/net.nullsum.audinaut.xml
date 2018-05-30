@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:41:13.391">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/activity/EditPlayActionActivity.java">
+<violation beginline="57" endline="165" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.activity" class="EditPlayActionActivity" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/activity/SubsonicActivity.java">
+<violation beginline="76" endline="932" begincolumn="91" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.activity" class="SubsonicActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="222" endline="324" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.activity" class="SubsonicActivity" method="setContentView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/activity/SubsonicFragmentActivity.java">
+<violation beginline="67" endline="701" begincolumn="113" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.activity" class="SubsonicFragmentActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="90" endline="306" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.activity" class="SubsonicFragmentActivity" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/adapter/SectionAdapter.java">
+<violation beginline="48" endline="486" begincolumn="91" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.adapter" class="SectionAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/domain/Playlist.java">
+<violation beginline="33" endline="174" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="net.nullsum.audinaut.domain" class="Playlist" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Playlist' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=11, WMC=30)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/domain/SearchCritera.java">
+<violation beginline="28" endline="93" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="net.nullsum.audinaut.domain" class="SearchCritera" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'SearchCritera' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=5, WMC=11)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/EqualizerFragment.java">
+<violation beginline="244" endline="399" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="EqualizerFragment" method="initEqualizer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/MainFragment.java">
+<violation beginline="22" endline="154" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="net.nullsum.audinaut.fragments" class="MainFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'MainFragment' is suspected to be a Data Class (WOC=0.000%, NOPA=5, NOAM=0, WMC=5)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/NowPlayingFragment.java">
+<violation beginline="77" endline="995" begincolumn="162" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.fragments" class="NowPlayingFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="140" endline="316" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="NowPlayingFragment" method="onCreateView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="375" endline="499" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="NowPlayingFragment" method="menuItemSelected" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/PreferenceCompatFragment.java">
+<violation beginline="42" endline="297" begincolumn="73" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.fragments" class="PreferenceCompatFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/SearchFragment.java">
+<violation beginline="36" endline="284" begincolumn="116" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SearchFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/SelectDirectoryFragment.java">
+<violation beginline="39" endline="639" begincolumn="118" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SelectDirectoryFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/SettingsFragment.java">
+<violation beginline="57" endline="756" begincolumn="126" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SettingsFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="187" endline="299" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SettingsFragment" method="onInitPreferences" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="406" endline="537" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SettingsFragment" method="expandServer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/fragments/SubsonicFragment.java">
+<violation beginline="87" endline="1494" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SubsonicFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="87" endline="1494" begincolumn="96" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SubsonicFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="591" endline="694" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SubsonicFragment" method="onShuffleRequested" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1026" endline="1136" begincolumn="5" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.fragments" class="SubsonicFragment" method="displaySongInfo" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/service/CachedMusicService.java">
+<violation beginline="54" endline="810" begincolumn="57" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.service" class="CachedMusicService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="416" endline="529" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.service" class="CachedMusicService" method="getAlbumList" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/service/DownloadFile.java">
+<violation beginline="47" endline="579" begincolumn="49" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.service" class="DownloadFile" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="366" endline="498" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.service" class="DownloadFile$DownloadTask" method="doInBackground" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/service/DownloadService.java">
+<violation beginline="77" endline="2032" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="net.nullsum.audinaut.service" class="DownloadService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="77" endline="2032" begincolumn="46" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.service" class="DownloadService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/service/OfflineMusicService.java">
+<violation beginline="59" endline="520" begincolumn="58" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.service" class="OfflineMusicService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/util/FileProxy.java">
+<violation beginline="72" endline="191" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="net.nullsum.audinaut.util" class="FileProxy$StreamFileTask" method="run" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/util/FileUtil.java">
+<violation beginline="63" endline="692" begincolumn="23" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.util" class="FileUtil" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/util/Util.java">
+<violation beginline="80" endline="1127" begincolumn="14" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="net.nullsum.audinaut.util" class="Util" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="80" endline="1127" begincolumn="25" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="net.nullsum.audinaut.util" class="Util" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/net.nullsum.audinaut/app/src/main/java/net/nullsum/audinaut/view/UpdateView.java">
+<violation beginline="250" endline="283" begincolumn="19" endcolumn="5" rule="DataClass" ruleset="Design" package="net.nullsum.audinaut.view" class="UpdateView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'UpdateViewHolder' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=6)
+</violation>
+</file>
+</pmd>

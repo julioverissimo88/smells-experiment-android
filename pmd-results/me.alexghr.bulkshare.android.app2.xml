@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:39:40.267">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.alexghr.bulkshare.android.app2/app/src/main/java/me/alexghr/bulkshare/android/app2/LinksFragment.java">
+<violation beginline="29" endline="206" begincolumn="100" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.alexghr.bulkshare.android.app2" class="LinksFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+</pmd>

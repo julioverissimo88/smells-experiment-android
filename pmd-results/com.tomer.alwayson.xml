@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:39:29.866">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.tomer.alwayson/app/src/main/java/com/tomer/alwayson/SettingsFragment.java">
+<violation beginline="65" endline="563" begincolumn="215" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.tomer.alwayson" class="SettingsFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.tomer.alwayson/app/src/main/java/com/tomer/alwayson/activities/PreferencesActivity.java">
+<violation beginline="44" endline="266" begincolumn="122" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.tomer.alwayson.activities" class="PreferencesActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.tomer.alwayson/app/src/main/java/com/tomer/alwayson/helpers/Utils.java">
+<violation beginline="35" endline="217" begincolumn="48" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.tomer.alwayson.helpers" class="Utils" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.tomer.alwayson/app/src/main/java/com/tomer/alwayson/services/MainService.java">
+<violation beginline="78" endline="728" begincolumn="91" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.tomer.alwayson.services" class="MainService" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="193" endline="361" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.tomer.alwayson.services" class="MainService" method="onCreate" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

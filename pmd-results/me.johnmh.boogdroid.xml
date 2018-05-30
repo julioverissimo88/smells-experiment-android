@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:41:41.922">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.johnmh.boogdroid/app/src/main/java/me/johnmh/boogdroid/bugzilla/Bug.java">
+<violation beginline="36" endline="140" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.johnmh.boogdroid.bugzilla" class="Bug" method="loadComments" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.johnmh.boogdroid/app/src/main/java/me/johnmh/boogdroid/bugzilla/Server.java">
+<violation beginline="47" endline="185" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="me.johnmh.boogdroid.bugzilla" class="Server" method="loadProducts" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.johnmh.boogdroid/app/src/main/java/me/johnmh/boogdroid/general/Bug.java">
+<violation beginline="29" endline="160" begincolumn="17" endcolumn="1" rule="DataClass" ruleset="Design" package="me.johnmh.boogdroid.general" class="Bug" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Bug' is suspected to be a Data Class (WOC=4.348%, NOPA=0, NOAM=22, WMC=24)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.johnmh.boogdroid/app/src/main/java/me/johnmh/boogdroid/general/Comment.java">
+<violation beginline="21" endline="82" begincolumn="17" endcolumn="1" rule="DataClass" ruleset="Design" package="me.johnmh.boogdroid.general" class="Comment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Comment' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=12)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.johnmh.boogdroid/app/src/main/java/me/johnmh/boogdroid/general/StatusInfo.java">
+<violation beginline="10" endline="43" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="me.johnmh.boogdroid.general" class="StatusInfo" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'StatusInfo' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/me.johnmh.boogdroid/app/src/main/java/me/johnmh/boogdroid/ui/ArrayContainsAdapter.java">
+<violation beginline="51" endline="510" begincolumn="80" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="me.johnmh.boogdroid.ui" class="ArrayContainsAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+</pmd>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:40:51.327">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/common/BitmapUtils.java">
+<violation beginline="32" endline="259" begincolumn="26" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.common" class="BitmapUtils" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/common/Utils.java">
+<violation beginline="32" endline="340" begincolumn="20" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.common" class="Utils" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/exif/CountedDataInputStream.java">
+<violation beginline="27" endline="136" begincolumn="56" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.exif" class="CountedDataInputStream" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/exif/ExifInterface.java">
+<violation beginline="64" endline="2407" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.gallery3d.exif" class="ExifInterface" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="64" endline="2407" begincolumn="28" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.exif" class="ExifInterface" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="2072" endline="2344" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.gallery3d.exif" class="ExifInterface" method="initTagInfo" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/exif/ExifOutputStream.java">
+<violation beginline="60" endline="518" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.exif" class="ExifOutputStream" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="321" endline="432" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.gallery3d.exif" class="ExifOutputStream" method="createRequiredIfdAndTag" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/exif/ExifParser.java">
+<violation beginline="69" endline="916" begincolumn="18" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.exif" class="ExifParser" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/exif/ExifTag.java">
+<violation beginline="31" endline="1008" begincolumn="22" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.exif" class="ExifTag" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/glrenderer/BasicTexture.java">
+<violation beginline="28" endline="212" begincolumn="55" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.glrenderer" class="BasicTexture" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/glrenderer/GLCanvas.java">
+<violation beginline="29" endline="215" begincolumn="27" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.glrenderer" class="GLCanvas" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/gallery3d/glrenderer/GLES20Canvas.java">
+<violation beginline="35" endline="1009" begincolumn="47" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.gallery3d.glrenderer" class="GLES20Canvas" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/launcher3/WallpaperCropActivity.java">
+<violation beginline="505" endline="507" begincolumn="30" endcolumn="88" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="WallpaperCropActivity$BitmapCropTask" method="BitmapCropTask" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="583" endline="808" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="WallpaperCropActivity$BitmapCropTask" method="cropBitmap" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/launcher3/WallpaperPickerActivity.java">
+<violation beginline="85" endline="1241" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="WallpaperPickerActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="85" endline="1241" begincolumn="68" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="WallpaperPickerActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="382" endline="680" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="WallpaperPickerActivity" method="init" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/photos/views/BlockingGLTextureView.java">
+<violation beginline="104" endline="305" begincolumn="36" endcolumn="5" rule="TooManyMethods" ruleset="Design" package="com.android.photos.views" class="BlockingGLTextureView$EglHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/WallpaperPicker/src/com/android/photos/views/TiledImageRenderer.java">
+<violation beginline="39" endline="825" begincolumn="33" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.photos.views" class="TiledImageRenderer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/extra/src/javal/xml/bind/DatatypeConverter.java">
+<violation beginline="26" endline="194" begincolumn="38" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="javal.xml.bind" class="DatatypeConverter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/extra/src/javal/xml/bind/DatatypeConverterInterface.java">
+<violation beginline="26" endline="104" begincolumn="45" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="javal.xml.bind" class="DatatypeConverterInterface" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/AllAppsList.java">
+<violation beginline="32" endline="261" begincolumn="19" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="AllAppsList" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/AppDrawerListAdapter.java">
+<violation beginline="54" endline="918" begincolumn="73" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="AppDrawerListAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="115" endline="130" begincolumn="19" endcolumn="5" rule="DataClass" ruleset="Design" package="com.android.launcher3" class="AppDrawerListAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ViewHolder' is suspected to be a Data Class (WOC=0.000%, NOPA=5, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/AppWidgetResizeFrame.java">
+<violation beginline="223" endline="334" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="AppWidgetResizeFrame" method="resizeWidgetIfNeeded" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/AppsCustomizePagedView.java">
+<violation beginline="146" endline="2095" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="AppsCustomizePagedView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="148" endline="2095" begincolumn="68" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="AppsCustomizePagedView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="1262" endline="1375" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="AppsCustomizePagedView" method="syncWidgetPageItems" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/BubbleTextView.java">
+<violation beginline="41" endline="420" begincolumn="46" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="BubbleTextView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/CellLayout.java">
+<violation beginline="57" endline="3271" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="CellLayout" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="57" endline="3271" begincolumn="43" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="CellLayout" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="180" endline="295" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="CellLayout" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="402" endline="516" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="onDraw" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1088" endline="1089" begincolumn="31" endcolumn="95" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="visualizeDropLocation" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="1248" endline="1250" begincolumn="26" endcolumn="33" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="findNearestArea" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="1248" endline="1370" begincolumn="5" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="findNearestArea" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="2032" endline="2034" begincolumn="42" endcolumn="39" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="findReorderSolution" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="2479" endline="2480" begincolumn="25" endcolumn="68" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="performReorder" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="2479" endline="2580" begincolumn="5" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="CellLayout" method="performReorder" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/DeleteDropTarget.java">
+<violation beginline="50" endline="560" begincolumn="56" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="DeleteDropTarget" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/DeviceProfile.java">
+<violation beginline="62" endline="985" begincolumn="28" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="DeviceProfile" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="175" endline="176" begincolumn="18" endcolumn="81" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="DeviceProfile" method="DeviceProfile" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="198" endline="321" begincolumn="5" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="DeviceProfile" method="DeviceProfile" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="780" endline="964" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="DeviceProfile" method="layout" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/DragController.java">
+<violation beginline="37" endline="809" begincolumn="29" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="DragController" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/DragLayer.java">
+<violation beginline="47" endline="994" begincolumn="91" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="DragLayer" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="649" endline="652" begincolumn="40" endcolumn="65" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="DragLayer" method="animateViewIntoPosition" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="681" endline="685" begincolumn="28" endcolumn="92" rule="ExcessiveParameterList" ruleset="Design" package="com.android.launcher3" class="DragLayer" method="animateView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/DropTarget.java">
+<violation beginline="32" endline="68" begincolumn="5" endcolumn="5" rule="DataClass" ruleset="Design" package="com.android.launcher3" class="DropTarget" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'DragObject' is suspected to be a Data Class (WOC=0.000%, NOPA=11, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/FocusHelper.java">
+<violation beginline="87" endline="224" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="FocusHelper" method="handlePagedViewGridLayoutWidgetKeyEvent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="229" endline="394" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="FocusHelper" method="handleAppsCustomizeKeyEvent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="631" endline="794" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="FocusHelper" method="handleIconKeyEvent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/Folder.java">
+<violation beginline="75" endline="1737" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="Folder" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="77" endline="1737" begincolumn="36" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="Folder" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="614" endline="783" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Folder" method="animateOpen" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/FolderIcon.java">
+<violation beginline="53" endline="870" begincolumn="71" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="FolderIcon" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/HiddenFolderFragment.java">
+<violation beginline="346" endline="358" begincolumn="20" endcolumn="5" rule="DataClass" ruleset="Design" package="com.android.launcher3" class="HiddenFolderFragment" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'AppViewHolder' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/Launcher.java">
+<violation beginline="155" endline="6102" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="Launcher" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="158" endline="6102" begincolumn="48" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="Launcher" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="892" endline="1042" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Launcher" method="onActivityResult" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1124" endline="1244" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Launcher" method="onResume" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="3713" endline="3997" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Launcher" method="showAppsCustomizeHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="4004" endline="4304" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Launcher" method="hideAppsCustomizeHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="5060" endline="5175" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Launcher" method="bindItems" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/LauncherBackupHelper.java">
+<violation beginline="69" endline="1197" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="LauncherBackupHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="69" endline="1197" begincolumn="59" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="LauncherBackupHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/LauncherModel.java">
+<violation beginline="88" endline="4156" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="89" endline="4156" begincolumn="67" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="LauncherModel" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="192" endline="222" begincolumn="32" endcolumn="5" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="LauncherModel$Callbacks" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="473" endline="599" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel" method="addAndBindAddedWorkspaceApps" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="485" endline="596" begincolumn="20" endcolumn="13" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel" method="run" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1610" endline="3259" begincolumn="13" endcolumn="5" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="1610" endline="3259" begincolumn="50" endcolumn="5" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="LauncherModel$LoaderTask" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="1867" endline="2053" begincolumn="17" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel$LoaderTask" method="checkItemPlacement" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="2068" endline="2692" begincolumn="17" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel$LoaderTask" method="loadWorkspace" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="2814" endline="2924" begincolumn="17" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel$LoaderTask" method="removeHiddenAppsWorkspaceItems" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="3002" endline="3125" begincolumn="17" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel$LoaderTask" method="bindWorkspace" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="3368" endline="3545" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherModel$PackageUpdatedTask" method="run" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/LauncherProvider.java">
+<violation beginline="72" endline="2421" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="LauncherProvider" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="72" endline="2421" begincolumn="55" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="LauncherProvider" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="394" endline="2316" begincolumn="20" endcolumn="5" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="LauncherProvider" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="394" endline="2316" begincolumn="98" endcolumn="5" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="LauncherProvider$DatabaseHelper" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="714" endline="991" begincolumn="16" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherProvider$DatabaseHelper" method="onUpgrade" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1498" endline="1635" begincolumn="17" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherProvider$DatabaseHelper" method="loadFavoritesRecursive" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="2034" endline="2315" begincolumn="17" endcolumn="9" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="LauncherProvider$DatabaseHelper" method="migrateLauncher2Shortcuts" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/LauncherViewPropertyAnimator.java">
+<violation beginline="28" endline="275" begincolumn="88" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="LauncherViewPropertyAnimator" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/PagedView.java">
+<violation beginline="71" endline="3281" begincolumn="17" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="PagedView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="71" endline="3281" begincolumn="98" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="PagedView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="823" endline="937" begincolumn="15" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="PagedView" method="onMeasure" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1461" endline="1574" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="PagedView" method="onInterceptTouchEvent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="1814" endline="2109" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="PagedView" method="onTouchEvent" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/PagedViewCellLayout.java">
+<violation beginline="31" endline="492" begincolumn="68" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="PagedViewCellLayout" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/SlidingUpPanelLayout.java">
+<violation beginline="28" endline="1315" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="SlidingUpPanelLayout" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="28" endline="1315" begincolumn="53" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="SlidingUpPanelLayout" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/Utilities.java">
+<violation beginline="58" endline="602" begincolumn="30" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="Utilities" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/WidgetPreviewLoader.java">
+<violation beginline="47" endline="793" begincolumn="34" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="WidgetPreviewLoader" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="514" endline="630" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="WidgetPreviewLoader" method="generateWidgetPreview" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/Workspace.java">
+<violation beginline="92" endline="5481" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" package="com.android.launcher3" class="Workspace" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="95" endline="5481" begincolumn="20" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3" class="Workspace" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="2290" endline="2613" begincolumn="5" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Workspace" method="getChangeStateAnimation" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="3198" endline="3382" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Workspace" method="onDrop" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="3746" endline="3873" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Workspace" method="onDragOver" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+<violation beginline="4013" endline="4191" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="Workspace" method="onDropExternal" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/list/CompositeCursorAdapter.java">
+<violation beginline="30" endline="532" begincolumn="66" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3.list" class="CompositeCursorAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/list/PinnedHeaderListView.java">
+<violation beginline="39" endline="565" begincolumn="61" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3.list" class="PinnedHeaderListView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/list/SettingsPinnedHeaderAdapter.java">
+<violation beginline="29" endline="455" begincolumn="74" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="com.android.launcher3.list" class="SettingsPinnedHeaderAdapter" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/src/com/android/launcher3/locale/HanziToPinyin.java">
+<violation beginline="39" endline="71" begincolumn="19" endcolumn="5" rule="DataClass" ruleset="Design" package="com.android.launcher3.locale" class="HanziToPinyin" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Token' is suspected to be a Data Class (WOC=0.000%, NOPA=7, NOAM=0, WMC=2)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/com.kaneoriley.cyanogenport.launcher3/util/com/android/launcher3/DecoderRing.java">
+<violation beginline="82" endline="230" begincolumn="19" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="com.android.launcher3" class="DecoderRing" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

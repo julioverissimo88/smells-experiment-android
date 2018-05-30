@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.1.0" timestamp="2018-05-30T13:40:48.902">
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/activity/C_outActivity.java">
+<violation beginline="32" endline="288" begincolumn="51" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.c_base.c_beam.activity" class="C_outActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/activity/CcorderActivity.java">
+<violation beginline="58" endline="669" begincolumn="94" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.c_base.c_beam.activity" class="CcorderActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="205" endline="308" begincolumn="13" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.c_base.c_beam.activity" class="CcorderActivity" method="setupControls" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/activity/RingActivity.java">
+<violation beginline="48" endline="617" begincolumn="50" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.c_base.c_beam.activity" class="RingActivity" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/ActivityLog.java">
+<violation beginline="5" endline="66" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.c_base.c_beam.domain" class="ActivityLog" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'ActivityLog' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=13)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/Artefact.java">
+<violation beginline="5" endline="50" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.c_base.c_beam.domain" class="Artefact" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Artefact' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=8)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/Article.java">
+<violation beginline="5" endline="57" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.c_base.c_beam.domain" class="Article" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Article' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=10)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/C_beam.java">
+<violation beginline="29" endline="832" begincolumn="21" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.c_base.c_beam.domain" class="C_beam" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/Event.java">
+<violation beginline="5" endline="76" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.c_base.c_beam.domain" class="Event" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Event' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=12)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/Mission.java">
+<violation beginline="9" endline="90" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.c_base.c_beam.domain" class="Mission" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Mission' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=14, WMC=16)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/Notification.java">
+<violation beginline="3" endline="35" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.c_base.c_beam.domain" class="Notification" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'Notification' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=6)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/domain/User.java">
+<violation beginline="7" endline="213" begincolumn="8" endcolumn="1" rule="DataClass" ruleset="Design" package="org.c_base.c_beam.domain" class="User" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#dataclass" priority="3">
+The class 'User' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=36, WMC=39)
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/fragment/C_ontrolFragment.java">
+<violation beginline="36" endline="291" begincolumn="12" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" package="org.c_base.c_beam.fragment" class="C_ontrolFragment" method="onCreateView" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/mqtt/Connection.java">
+<violation beginline="33" endline="445" begincolumn="25" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.c_base.c_beam.mqtt" class="Connection" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+<file name="/home/matheus/Documentos/repositories/AppsToAnalize/org.c_base.c_beam/src/main/java/org/c_base/c_beam/mqtt/MqttManager.java">
+<violation beginline="38" endline="327" begincolumn="71" endcolumn="1" rule="TooManyMethods" ruleset="Design" package="org.c_base.c_beam.mqtt" class="MqttManager" externalInfoUrl="https://pmd.github.io/pmd-6.1.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+</file>
+</pmd>
